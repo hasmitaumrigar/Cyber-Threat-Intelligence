@@ -1,4 +1,4 @@
-***Cyber Threat Intelligence Dashboard***
+## ***Cyber Threat Intelligence Dashboard*** ##
 
 ## Objective ##
 A SOC-style dashboard for cybersecurity threat intelligence investigations. Analysts can investigate IP addresses using **multiple intelligence sources**, visualize threat patterns, track historical investigations, and generate SOC-style reports. This project demonstrates real-world SOC analyst skills.
