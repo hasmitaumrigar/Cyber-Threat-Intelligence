@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "703b04879eb5a80a1b3d32d410773297af6648ef677434d073bf4bab7d1a335c121003804d0a58eb"
+API_KEY = "3259ccd3075ba4eda559ddcd04591ca9c111a1d9b95914015d4b9bfa961d0c90dcb680546a7e6ca1"
 
 def lookup_ip(ip):
     """Query AbuseIPDB and return IP threat information."""
