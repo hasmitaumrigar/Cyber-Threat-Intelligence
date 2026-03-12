@@ -1,15 +1,9 @@
-IP,Country,ISP,Abuse Score,Reports,Risk
-1.1.1.1,AU,APNIC and Cloudflare DNS Resolver project,0,298,Low Risk 🟢
-9.9.9.9,US,Quad9,0,29,Low Risk 🟢
-8.8.8.8,US,Google LLC,0,60,Low Risk 🟢
-9.9.9.9,US,Quad9,0,29,Low Risk 🟢
-8.8.4.4,US,Google LLC,0,29,Low Risk 🟢
-185.199.108.153,US,"GitHub, Inc.",34,11,Low Risk 🟢
-203.0.113.5,,,0,1,Low Risk 🟢
-185.220.101.1,DE,Artikel10 e.V.,100,163,High Risk 🔴
-91.214.240.0,RU,Altagen JSC,0,0,Low Risk 🟢
-91.214.240.0,RU,Altagen JSC,0,0,Low Risk 🟢
-45.155.205.233,RU,Cloud Technologies LLC trading as Cloud.ru,7,3,High Risk 🔴
-91.214.240.0,RU,Altagen JSC,0,0,Low Risk 🟢
-185.220.101.1,DE,Artikel10 e.V.,100,161,High Risk 🔴
-185.220.101.1,DE,Artikel10 e.V.,100,161,High Risk 🔴
+Time,IOC,IOC Type,IP,Country,ISP,Abuse Score,Reports,Risk
+185.220.101.15,IP Address,185.220.101.15,DE,Artikel10 e.V.,100,167,100,High Risk 🔴,2026-03-12 04:34:26
+91.214.240.0,IP Address,91.214.240.0,RU,Altagen JSC,0,0,0,Low Risk 🟢,2026-03-12 04:35:01
+8.8.4.4,IP Address,8.8.4.4,US,Google LLC,0,30,100,High Risk 🔴,2026-03-12 04:35:23
+44d88612fea8a8f36de82e1278abb02f,IP Address,N/A,N/A,N/A,0,0,0,Low Risk 🟢,2026-03-12 04:36:20
+44d88612fea8a8f36de82e1278abb02f,File Hash,0,0,N/A,2026-03-12 04:36:24
+44d88612fea8a8f36de82e1278abb02f,File Hash,0,0,N/A,2026-03-12 04:36:27
+44d88612fea8a8f36de82e1278abb02f,File Hash,0,0,N/A,2026-03-12 04:36:32
+3395856ce81f2b7382dee72602f798b642f14140,File Hash,0,0,N/A,2026-03-12 04:37:20
