@@ -36,11 +36,6 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
-***Live Demo***
-
-Try the dashboard live on Streamlit Community Cloud:
-https://share.streamlit.io/
-
 ***How It Works***
 
 Enter an IP address to investigate.
